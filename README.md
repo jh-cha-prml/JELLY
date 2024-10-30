@@ -22,8 +22,9 @@ bash ./sh/run_stage02.sh
 ```
 
 ## To-do list
-- [x] add stage01, stage02 training code
 - [x] add requirements.txt
+- [x] add stage01, stage02, stage03 dataset json
+- [x] add stage01, stage02 training code
 - [ ] add stage03 training code
 - [ ] add inference code
 

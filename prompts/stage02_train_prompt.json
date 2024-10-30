@@ -1,0 +1,8 @@
+{   
+    "emotion_prediction_in_conversation":[
+        "<DIALOGUE>\nPredict the speaker <TGT_SPK>'s emotion and intensity of the last sentence '<TGT_SEN>' in the preceding dialogue.\nNote: If the emotion is neutral, do not provide the intensity."
+    ],
+    "only_emotion_prediction_in_conversation":[
+        "<DIALOGUE>\nPredict the speaker <TGT_SPK>'s emotion of the last sentence '<TGT_SEN>' in the preceding dialogue."
+    ]
+}

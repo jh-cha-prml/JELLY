@@ -6,7 +6,7 @@
 ## Clone our repository
 ```
 git clone https://github.com/jh-cha-prml/JELLY
-cd /JELLY
+cd ./JELLY
 ```
 
 ## Install the requirements

@@ -16,15 +16,22 @@ pip install -r requirements.txt
 
 ## Training
 ```
+### stage 01 Emotion-Text Alignment
 bash ./sh/run_stage01.sh
+
+### stage 02 Emotional Context Reasoning
 bash ./sh/run_stage02.sh
+
+### stage 03 Emotional Context-Aware Speech Synthesis
+bash ./sh/run_stage03.sh
 
 ```
 
 ## To-do list
 - [x] add requirements.txt
-- [x] add stage01, stage02, stage03 dataset json
+- [x] add stage01, stage02 dataset json
 - [x] add stage01, stage02 training code
+- [ ] add stage03 dataset txt
 - [ ] add stage03 training code
 - [ ] add inference code
 

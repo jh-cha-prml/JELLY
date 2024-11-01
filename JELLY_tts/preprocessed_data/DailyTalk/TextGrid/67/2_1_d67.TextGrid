@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.2146 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.2146 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26 
+            text = "" 
+        intervals [2]:
+            xmin = 0.26 
+            xmax = 0.48 
+            text = "what" 
+        intervals [3]:
+            xmin = 0.48 
+            xmax = 0.76 
+            text = "time" 
+        intervals [4]:
+            xmin = 0.76 
+            xmax = 1.08 
+            text = "sir" 
+        intervals [5]:
+            xmin = 1.08 
+            xmax = 1.2146 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.2146 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26 
+            text = "" 
+        intervals [2]:
+            xmin = 0.26 
+            xmax = 0.3 
+            text = "HH" 
+        intervals [3]:
+            xmin = 0.3 
+            xmax = 0.36 
+            text = "W" 
+        intervals [4]:
+            xmin = 0.36 
+            xmax = 0.41 
+            text = "AH1" 
+        intervals [5]:
+            xmin = 0.41 
+            xmax = 0.48 
+            text = "T" 
+        intervals [6]:
+            xmin = 0.48 
+            xmax = 0.6 
+            text = "T" 
+        intervals [7]:
+            xmin = 0.6 
+            xmax = 0.68 
+            text = "AY1" 
+        intervals [8]:
+            xmin = 0.68 
+            xmax = 0.76 
+            text = "M" 
+        intervals [9]:
+            xmin = 0.76 
+            xmax = 0.85 
+            text = "S" 
+        intervals [10]:
+            xmin = 0.85 
+            xmax = 1.08 
+            text = "ER1" 
+        intervals [11]:
+            xmin = 1.08 
+            xmax = 1.2146 
+            text = "" 

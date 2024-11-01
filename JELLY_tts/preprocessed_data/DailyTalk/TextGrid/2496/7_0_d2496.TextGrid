@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.412 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.412 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.26 
+            text = "what" 
+        intervals [2]:
+            xmin = 0.26 
+            xmax = 1.04 
+            text = "appliances" 
+        intervals [3]:
+            xmin = 1.04 
+            xmax = 1.412 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.412 
+        intervals: size = 14 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06 
+            text = "HH" 
+        intervals [2]:
+            xmin = 0.06 
+            xmax = 0.13 
+            text = "W" 
+        intervals [3]:
+            xmin = 0.13 
+            xmax = 0.19 
+            text = "AH1" 
+        intervals [4]:
+            xmin = 0.19 
+            xmax = 0.26 
+            text = "T" 
+        intervals [5]:
+            xmin = 0.26 
+            xmax = 0.37 
+            text = "AH0" 
+        intervals [6]:
+            xmin = 0.37 
+            xmax = 0.43 
+            text = "P" 
+        intervals [7]:
+            xmin = 0.43 
+            xmax = 0.5 
+            text = "L" 
+        intervals [8]:
+            xmin = 0.5 
+            xmax = 0.58 
+            text = "AY1" 
+        intervals [9]:
+            xmin = 0.58 
+            xmax = 0.61 
+            text = "AH0" 
+        intervals [10]:
+            xmin = 0.61 
+            xmax = 0.66 
+            text = "N" 
+        intervals [11]:
+            xmin = 0.66 
+            xmax = 0.75 
+            text = "S" 
+        intervals [12]:
+            xmin = 0.75 
+            xmax = 0.83 
+            text = "IH0" 
+        intervals [13]:
+            xmin = 0.83 
+            xmax = 1.04 
+            text = "Z" 
+        intervals [14]:
+            xmin = 1.04 
+            xmax = 1.412 
+            text = "" 

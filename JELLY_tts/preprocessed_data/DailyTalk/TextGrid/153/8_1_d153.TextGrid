@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.4584 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.4584 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12 
+            text = "" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.27 
+            text = "is" 
+        intervals [3]:
+            xmin = 0.27 
+            xmax = 0.4 
+            text = "your" 
+        intervals [4]:
+            xmin = 0.4 
+            xmax = 0.71 
+            text = "boss" 
+        intervals [5]:
+            xmin = 0.71 
+            xmax = 1.38 
+            text = "chinese" 
+        intervals [6]:
+            xmin = 1.38 
+            xmax = 1.4584 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.4584 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12 
+            text = "" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.22 
+            text = "IH1" 
+        intervals [3]:
+            xmin = 0.22 
+            xmax = 0.27 
+            text = "Z" 
+        intervals [4]:
+            xmin = 0.27 
+            xmax = 0.31 
+            text = "Y" 
+        intervals [5]:
+            xmin = 0.31 
+            xmax = 0.34 
+            text = "UH1" 
+        intervals [6]:
+            xmin = 0.34 
+            xmax = 0.4 
+            text = "R" 
+        intervals [7]:
+            xmin = 0.4 
+            xmax = 0.48 
+            text = "B" 
+        intervals [8]:
+            xmin = 0.48 
+            xmax = 0.62 
+            text = "AA1" 
+        intervals [9]:
+            xmin = 0.62 
+            xmax = 0.71 
+            text = "S" 
+        intervals [10]:
+            xmin = 0.71 
+            xmax = 0.83 
+            text = "CH" 
+        intervals [11]:
+            xmin = 0.83 
+            xmax = 0.92 
+            text = "AY0" 
+        intervals [12]:
+            xmin = 0.92 
+            xmax = 0.97 
+            text = "N" 
+        intervals [13]:
+            xmin = 0.97 
+            xmax = 1.15 
+            text = "IY1" 
+        intervals [14]:
+            xmin = 1.15 
+            xmax = 1.38 
+            text = "Z" 
+        intervals [15]:
+            xmin = 1.38 
+            xmax = 1.4584 
+            text = "" 

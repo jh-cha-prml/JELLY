@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.2432 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.2432 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21 
+            text = "" 
+        intervals [2]:
+            xmin = 0.21 
+            xmax = 0.59 
+            text = "happy" 
+        intervals [3]:
+            xmin = 0.59 
+            xmax = 0.8 
+            text = "new" 
+        intervals [4]:
+            xmin = 0.8 
+            xmax = 1.22 
+            text = "year" 
+        intervals [5]:
+            xmin = 1.22 
+            xmax = 1.2432 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.2432 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21 
+            text = "" 
+        intervals [2]:
+            xmin = 0.21 
+            xmax = 0.35 
+            text = "HH" 
+        intervals [3]:
+            xmin = 0.35 
+            xmax = 0.44 
+            text = "AE1" 
+        intervals [4]:
+            xmin = 0.44 
+            xmax = 0.53 
+            text = "P" 
+        intervals [5]:
+            xmin = 0.53 
+            xmax = 0.59 
+            text = "IY0" 
+        intervals [6]:
+            xmin = 0.59 
+            xmax = 0.62 
+            text = "N" 
+        intervals [7]:
+            xmin = 0.62 
+            xmax = 0.72 
+            text = "Y" 
+        intervals [8]:
+            xmin = 0.72 
+            xmax = 0.8 
+            text = "UW1" 
+        intervals [9]:
+            xmin = 0.8 
+            xmax = 0.84 
+            text = "Y" 
+        intervals [10]:
+            xmin = 0.84 
+            xmax = 0.99 
+            text = "IH1" 
+        intervals [11]:
+            xmin = 0.99 
+            xmax = 1.22 
+            text = "R" 
+        intervals [12]:
+            xmin = 1.22 
+            xmax = 1.2432 
+            text = "" 

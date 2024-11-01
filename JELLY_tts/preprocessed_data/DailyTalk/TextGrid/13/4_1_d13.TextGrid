@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.199 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.199 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13 
+            text = "" 
+        intervals [2]:
+            xmin = 0.13 
+            xmax = 0.44 
+            text = "that's" 
+        intervals [3]:
+            xmin = 0.44 
+            xmax = 0.64 
+            text = "too" 
+        intervals [4]:
+            xmin = 0.64 
+            xmax = 1.15 
+            text = "bad" 
+        intervals [5]:
+            xmin = 1.15 
+            xmax = 1.199 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.199 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.13 
+            text = "" 
+        intervals [2]:
+            xmin = 0.13 
+            xmax = 0.2 
+            text = "DH" 
+        intervals [3]:
+            xmin = 0.2 
+            xmax = 0.31 
+            text = "AE1" 
+        intervals [4]:
+            xmin = 0.31 
+            xmax = 0.36 
+            text = "T" 
+        intervals [5]:
+            xmin = 0.36 
+            xmax = 0.44 
+            text = "S" 
+        intervals [6]:
+            xmin = 0.44 
+            xmax = 0.53 
+            text = "T" 
+        intervals [7]:
+            xmin = 0.53 
+            xmax = 0.64 
+            text = "UW1" 
+        intervals [8]:
+            xmin = 0.64 
+            xmax = 0.74 
+            text = "B" 
+        intervals [9]:
+            xmin = 0.74 
+            xmax = 1.02 
+            text = "AE1" 
+        intervals [10]:
+            xmin = 1.02 
+            xmax = 1.15 
+            text = "D" 
+        intervals [11]:
+            xmin = 1.15 
+            xmax = 1.199 
+            text = "" 

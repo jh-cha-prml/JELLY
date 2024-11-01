@@ -1,0 +1,88 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.1667 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.1667 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04 
+            text = "" 
+        intervals [2]:
+            xmin = 0.04 
+            xmax = 0.3 
+            text = "and" 
+        intervals [3]:
+            xmin = 0.3 
+            xmax = 0.39 
+            text = "the" 
+        intervals [4]:
+            xmin = 0.39 
+            xmax = 0.98 
+            text = "tango" 
+        intervals [5]:
+            xmin = 0.98 
+            xmax = 1.1667 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.1667 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.04 
+            text = "" 
+        intervals [2]:
+            xmin = 0.04 
+            xmax = 0.2 
+            text = "AE1" 
+        intervals [3]:
+            xmin = 0.2 
+            xmax = 0.26 
+            text = "N" 
+        intervals [4]:
+            xmin = 0.26 
+            xmax = 0.3 
+            text = "D" 
+        intervals [5]:
+            xmin = 0.3 
+            xmax = 0.33 
+            text = "DH" 
+        intervals [6]:
+            xmin = 0.33 
+            xmax = 0.39 
+            text = "AH1" 
+        intervals [7]:
+            xmin = 0.39 
+            xmax = 0.48 
+            text = "T" 
+        intervals [8]:
+            xmin = 0.48 
+            xmax = 0.59 
+            text = "AE1" 
+        intervals [9]:
+            xmin = 0.59 
+            xmax = 0.67 
+            text = "NG" 
+        intervals [10]:
+            xmin = 0.67 
+            xmax = 0.72 
+            text = "G" 
+        intervals [11]:
+            xmin = 0.72 
+            xmax = 0.98 
+            text = "OW0" 
+        intervals [12]:
+            xmin = 0.98 
+            xmax = 1.1667 
+            text = "" 

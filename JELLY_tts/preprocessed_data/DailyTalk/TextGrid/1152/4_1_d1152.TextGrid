@@ -1,0 +1,164 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 2.25 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 2.25 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.29 
+            text = "what" 
+        intervals [2]:
+            xmin = 0.29 
+            xmax = 0.6 
+            text = "kind" 
+        intervals [3]:
+            xmin = 0.6 
+            xmax = 0.7 
+            text = "of" 
+        intervals [4]:
+            xmin = 0.7 
+            xmax = 1.05 
+            text = "course" 
+        intervals [5]:
+            xmin = 1.05 
+            xmax = 1.15 
+            text = "are" 
+        intervals [6]:
+            xmin = 1.15 
+            xmax = 1.28 
+            text = "you" 
+        intervals [7]:
+            xmin = 1.28 
+            xmax = 1.61 
+            text = "looking" 
+        intervals [8]:
+            xmin = 1.61 
+            xmax = 2.04 
+            text = "for" 
+        intervals [9]:
+            xmin = 2.04 
+            xmax = 2.25 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 2.25 
+        intervals: size = 27 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1 
+            text = "HH" 
+        intervals [2]:
+            xmin = 0.1 
+            xmax = 0.17 
+            text = "W" 
+        intervals [3]:
+            xmin = 0.17 
+            xmax = 0.22 
+            text = "AH1" 
+        intervals [4]:
+            xmin = 0.22 
+            xmax = 0.29 
+            text = "T" 
+        intervals [5]:
+            xmin = 0.29 
+            xmax = 0.4 
+            text = "K" 
+        intervals [6]:
+            xmin = 0.4 
+            xmax = 0.54 
+            text = "AY1" 
+        intervals [7]:
+            xmin = 0.54 
+            xmax = 0.57 
+            text = "N" 
+        intervals [8]:
+            xmin = 0.57 
+            xmax = 0.6 
+            text = "D" 
+        intervals [9]:
+            xmin = 0.6 
+            xmax = 0.63 
+            text = "AH0" 
+        intervals [10]:
+            xmin = 0.63 
+            xmax = 0.7 
+            text = "V" 
+        intervals [11]:
+            xmin = 0.7 
+            xmax = 0.82 
+            text = "K" 
+        intervals [12]:
+            xmin = 0.82 
+            xmax = 0.87 
+            text = "AO1" 
+        intervals [13]:
+            xmin = 0.87 
+            xmax = 0.98 
+            text = "R" 
+        intervals [14]:
+            xmin = 0.98 
+            xmax = 1.05 
+            text = "S" 
+        intervals [15]:
+            xmin = 1.05 
+            xmax = 1.08 
+            text = "AA1" 
+        intervals [16]:
+            xmin = 1.08 
+            xmax = 1.15 
+            text = "R" 
+        intervals [17]:
+            xmin = 1.15 
+            xmax = 1.21 
+            text = "Y" 
+        intervals [18]:
+            xmin = 1.21 
+            xmax = 1.28 
+            text = "UW1" 
+        intervals [19]:
+            xmin = 1.28 
+            xmax = 1.35 
+            text = "L" 
+        intervals [20]:
+            xmin = 1.35 
+            xmax = 1.43 
+            text = "UH1" 
+        intervals [21]:
+            xmin = 1.43 
+            xmax = 1.49 
+            text = "K" 
+        intervals [22]:
+            xmin = 1.49 
+            xmax = 1.54 
+            text = "IH0" 
+        intervals [23]:
+            xmin = 1.54 
+            xmax = 1.61 
+            text = "NG" 
+        intervals [24]:
+            xmin = 1.61 
+            xmax = 1.71 
+            text = "F" 
+        intervals [25]:
+            xmin = 1.71 
+            xmax = 1.84 
+            text = "AO1" 
+        intervals [26]:
+            xmin = 1.84 
+            xmax = 2.04 
+            text = "R" 
+        intervals [27]:
+            xmin = 2.04 
+            xmax = 2.25 
+            text = "" 

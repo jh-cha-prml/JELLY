@@ -1,0 +1,84 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.6486 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.6486 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12 
+            text = "" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.57 
+            text = "oh" 
+        intervals [3]:
+            xmin = 0.57 
+            xmax = 0.61 
+            text = "" 
+        intervals [4]:
+            xmin = 0.61 
+            xmax = 0.97 
+            text = "thank" 
+        intervals [5]:
+            xmin = 0.97 
+            xmax = 1.42 
+            text = "you" 
+        intervals [6]:
+            xmin = 1.42 
+            xmax = 1.6486 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.6486 
+        intervals: size = 10 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.12 
+            text = "" 
+        intervals [2]:
+            xmin = 0.12 
+            xmax = 0.57 
+            text = "OW1" 
+        intervals [3]:
+            xmin = 0.57 
+            xmax = 0.61 
+            text = "" 
+        intervals [4]:
+            xmin = 0.61 
+            xmax = 0.71 
+            text = "TH" 
+        intervals [5]:
+            xmin = 0.71 
+            xmax = 0.77 
+            text = "AE1" 
+        intervals [6]:
+            xmin = 0.77 
+            xmax = 0.9 
+            text = "NG" 
+        intervals [7]:
+            xmin = 0.9 
+            xmax = 0.97 
+            text = "K" 
+        intervals [8]:
+            xmin = 0.97 
+            xmax = 1.1 
+            text = "Y" 
+        intervals [9]:
+            xmin = 1.1 
+            xmax = 1.42 
+            text = "UW1" 
+        intervals [10]:
+            xmin = 1.42 
+            xmax = 1.6486 
+            text = "" 

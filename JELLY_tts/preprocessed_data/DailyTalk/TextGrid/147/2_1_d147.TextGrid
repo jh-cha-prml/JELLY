@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.8284 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 1.8284 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27 
+            text = "" 
+        intervals [2]:
+            xmin = 0.27 
+            xmax = 0.55 
+            text = "won't" 
+        intervals [3]:
+            xmin = 0.55 
+            xmax = 0.64 
+            text = "you" 
+        intervals [4]:
+            xmin = 0.64 
+            xmax = 0.93 
+            text = "watch" 
+        intervals [5]:
+            xmin = 0.93 
+            xmax = 1.49 
+            text = "tv" 
+        intervals [6]:
+            xmin = 1.49 
+            xmax = 1.8284 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 1.8284 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.27 
+            text = "" 
+        intervals [2]:
+            xmin = 0.27 
+            xmax = 0.36 
+            text = "W" 
+        intervals [3]:
+            xmin = 0.36 
+            xmax = 0.42 
+            text = "OW1" 
+        intervals [4]:
+            xmin = 0.42 
+            xmax = 0.47 
+            text = "N" 
+        intervals [5]:
+            xmin = 0.47 
+            xmax = 0.55 
+            text = "T" 
+        intervals [6]:
+            xmin = 0.55 
+            xmax = 0.58 
+            text = "Y" 
+        intervals [7]:
+            xmin = 0.58 
+            xmax = 0.64 
+            text = "UW1" 
+        intervals [8]:
+            xmin = 0.64 
+            xmax = 0.71 
+            text = "W" 
+        intervals [9]:
+            xmin = 0.71 
+            xmax = 0.8 
+            text = "AA1" 
+        intervals [10]:
+            xmin = 0.8 
+            xmax = 0.93 
+            text = "CH" 
+        intervals [11]:
+            xmin = 0.93 
+            xmax = 1.49 
+            text = "spn" 
+        intervals [12]:
+            xmin = 1.49 
+            xmax = 1.8284 
+            text = "" 

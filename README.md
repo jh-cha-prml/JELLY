@@ -37,8 +37,8 @@ bash ./sh/run_stage03.sh
 - [x] add stage03 dataset txt
 - [x] add stage03 training code
 - [x] add inference code
-- [] whisper feature extraction code
-- [] more README update
+- [ ] whisper feature extraction code
+- [ ] more README update
 
 ## References
 This implementation was developed based on the following repository:

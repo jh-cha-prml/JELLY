@@ -13,8 +13,8 @@
 # limitations under the License.
 
 model:
-  # paths
-  use_extracted_feature: True
+  use_extracted_feature: True # Set True to use pre-extracted whisper encoder representations (TLTR module inputs) 
+
   use_whisper: True
   use_tltr: True 
   tltr_embed_dim : 1280

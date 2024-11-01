@@ -13,8 +13,8 @@
 # limitations under the License.
 
 model:
-  # paths
-  use_extracted_feature: True
+  use_extracted_feature: True # Set True to use pre-extracted whisper encoder representations (TLTR module inputs) 
+  
   use_whisper: True
   use_tltr: True 
   tltr_embed_dim : 1280
@@ -60,8 +60,8 @@ model:
   dialogue_prompt: False
   use_emotion_label: False
   prompt_template: "USER: {}\nASSISTANT:"
-  prompt_path: "./prompts/stage01_train_prompt.json"
-  test_prompt_path: "./prompts/stage01_test_prompt.json"
+  prompt_path: "./prompts/stage01_1_train_prompt.json"
+  test_prompt_path: "./prompts/stage01_1_test_prompt.json"
   max_txt_len: 300
   end_sym: "</s>"
 

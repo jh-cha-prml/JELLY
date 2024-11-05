@@ -20,9 +20,7 @@ pip install -r requirements.txt
 ```
 
 ## Training Dataset
-```
 
-```
 
 ## Training & Inference
 ```
